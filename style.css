@@ -25,6 +25,7 @@ a{
 }
 .nav-items a:hover{
     color: black;
+    font-weight: bold;
 }
 .nav-items,.social-icon{
     display: flex;
